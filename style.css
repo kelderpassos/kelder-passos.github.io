@@ -1,46 +1,42 @@
+
+
 #img.trybe {
-   
   left: 10px;
   height: 10px;
+  
+}
 
-    }
+h1 {
+  color: white;
+  font-family: sans-serif;
+  width: -50px;
+}
 
-    h1 {
-      color: white;
-      font-family: sans-serif;
-      
-    }
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  color: white;
+}
 
-    h2 {
-     font-family:'Times New Roman', Times, serif; 
-     font-size: 20px;
-     color: white;
-     
-    }
+#foto {
+  width: 220px;
+  padding-left: 800px;
+}
 
-    #foto {
-    width: 220px;
-    padding-left: 800px;
-    
-    }
+h3 {
+  color: white;
+}
 
-    h3 {
-        color: white;
-    }
-    
+body {
+  background-color: #07090f;
+}
 
-    body {
-      background-color: #07090F;
-        
-    }
-    
-    .Trybe {
-      color: green;
+.Trybe {
+  color: green;
+}
 
-       }
-
-    .paragrafos {
-        color: white;
-        height: 200px;
-        overflow: auto;
-    }
+.paragrafos {
+  color: white;
+  height: 200px;
+  overflow: auto;
+}
