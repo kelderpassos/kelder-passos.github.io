@@ -1,6 +1,7 @@
-#img.topo {
-
-
+#img.trybe {
+   
+  left: 10px;
+  height: 10px;
 
     }
 
@@ -15,7 +16,12 @@
      font-size: 20px;
      color: white;
      
+    }
 
+    #foto {
+    width: 220px;
+    padding-left: 800px;
+    
     }
 
     h3 {
